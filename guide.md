@@ -7,7 +7,9 @@ parallel/runtime glue, file-format code, and several solver adapters; Fortran
 contains most input interpretation, element formulations, constitutive models,
 analysis procedures, and numerical kernels.
 
-For the visual overview, see [`relational-map.md`](relational-map.md).
+For the visual overview, see [`relational-map.md`](relational-map.md). For
+source-grounded explanations of the numerical procedures, see
+[`algorithm-guide.md`](algorithm-guide.md).
 
 ## 1. Repository at a glance
 
